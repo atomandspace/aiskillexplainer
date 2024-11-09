@@ -20,7 +20,7 @@ data_roles = {
 
 # my skills
 my_skills = {
-    "Custom Skills": [5, 6, 5, 7, 6, 5, 7, 6, 5, 6, 7, 6]  # Example values
+    "My Skills": [5, 6, 5, 7, 6, 5, 7, 6, 5, 6, 7, 6]
 }
 
 # plot all the roles
